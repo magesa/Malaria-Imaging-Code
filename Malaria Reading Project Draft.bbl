@@ -1,3 +1,9 @@
-\begin{thebibliography}{}
+\begin{thebibliography}{1}
+
+\bibitem{DiRuberto2002}
+Cecilia {Di Ruberto}, Andrew Dempster, Shahid Khan, and Bill Jarra.
+\newblock {Analysis of infected blood cell images using morphological
+  operators}.
+\newblock {\em Image and Vision Computing}, 2002.
 
 \end{thebibliography}
